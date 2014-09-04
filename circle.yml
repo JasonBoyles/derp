@@ -6,4 +6,4 @@ dependencies:
   - pip install hot
 test:
   override:
-  - echo ${SECRET}; hot test
+  - echo shhhh ${SECRET}; hot test
